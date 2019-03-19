@@ -31,8 +31,9 @@ body {
 }
 
 .pizza__content {
-    flex: 1;
     background: white;
+    
+    flex: 1;
 }
 
 .pizza__price {
